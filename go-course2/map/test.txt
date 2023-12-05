@@ -1,0 +1,27 @@
+Lead Group Information Security engagements and collaborations in software and application development projects and scrum to ensure projects and changes meet set information security requirements/standards before deployment to the production environment.
+
+Identify, integrate, and maintain security tools and automation, such as SAST, SCA, DAST and IAST tools (Static/Dynamic Application Security Testing), standards, and processes into the software development or product life cycle (SDLC), and CI/CD pipelines.
+
+Working collaboratively with other Information Security specialists and teams to identify, implement and monitor cloud security solutions.
+
+Perform security reviews and assessments, including threat modeling, vulnerability assessment and penetration testing, Web and mobile application testing, Integration/API assessments.
+
+Collaborate with Enterprise Architecture and Business Application Development teams to identify application/software security improvements and incorporate identified security controls in software/ SDLC/DevOps processes.
+
+Perform and coordinate regular trainings on secure coding, software security and application security practices for the development and other KCB technology teams at regular intervals.
+
+
+Application ownership for API Lifecycle Management Tool –KONG or any of the following life cycle management tools such as Apigee or Mulesoft 
+
+Kong is a Life Cycle Management Tool (Similar tools: Apigee, Mulesoft,..)
+Designing APIS & Microservices
+DDD (Domain Driven Design), for design microservices
+
+
+I’m available to talk on [List of dates and times you’re available]. I look forward to speaking with you.
+
+
+I’m available to talk on Week days between 2 and 6 p.m. and anytime on Saturday. I look forward to speaking with you.
+
+SNYK_TOKEN
+758ebc8d-20ea-4c31-8b35-5379260618a4
